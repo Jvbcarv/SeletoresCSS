@@ -8,3 +8,7 @@ Atividade de seletores em CSS:
     }
   - Seletor de Class .class{
     }
+
+Visualização da página:
+
+https://jvbcarv.github.io/SeletoresCSS/
